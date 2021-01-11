@@ -1,0 +1,36 @@
+h1 {
+  color: royalblue;
+  font-size: 32px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+}
+
+h3 {
+  color: darkblue;
+  font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h4 {
+  color: darkmagenta;
+  font-size: 16;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul,
+li {
+  color: brown;
+  font-size: 16px;
+  font-family: Times, Arial;
+}
+
+body {
+  background-image: linear-gradient(90deg, green, yellow);
+}
+
+.greeting {
+  color: royalblue;
+  font-size: 34px;
+  font-family: Arial;
+  font-weight: bold;
+}
